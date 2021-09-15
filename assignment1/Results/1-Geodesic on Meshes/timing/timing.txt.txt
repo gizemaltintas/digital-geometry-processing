@@ -1,0 +1,12 @@
+centaur.off
+Time difference of array implementation = 255.41[secs]
+Time difference of min-heap implementation = 0.817[secs]
+Time difference of fibonacci-heap implementation = 0.31[secs]
+
+man.off
+Time difference of min-heap implementation = 3.668[secs]
+Time difference of fibonacci-heap implementation = 0.981[secs]
+
+weirdSphere.off
+Time difference of min-heap implementation = 11.447[secs]
+Time difference of fibonacci-heap implementation = 2.08[secs]
