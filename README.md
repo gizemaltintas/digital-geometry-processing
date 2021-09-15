@@ -1,7 +1,7 @@
 # digital-geometry-processing
 Assignments of CENG789 Master's course on Digital Geometry Processing
 
-The base code can be found in https://user.ceng.metu.edu.tr/~ys/ceng789-dgp/. The code can be executed by running .sln file. I have used
+The base code and detailed course catalog can be found in https://user.ceng.metu.edu.tr/~ys/ceng789-dgp/. The code can be executed by running .sln file. I have used
 Coin3D Open Inventor for 3D SDK which is built on top of OpenGL.
 
 ## Assignment-1
