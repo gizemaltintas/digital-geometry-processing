@@ -5,7 +5,7 @@ The base code can be found in https://user.ceng.metu.edu.tr/~ys/ceng789-dgp/. Th
 Coin3D Open Inventor for 3D SDK which is built on top of OpenGL.
 
 ## Assignment-1
-In this assignment, I have implemented
+In this assignment, I have implemented following three parts:
 
 - ### Geodesics on Meshes by applying Dijkstra algorithm
 
