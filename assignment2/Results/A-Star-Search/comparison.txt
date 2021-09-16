@@ -1,0 +1,32 @@
+Comparisons of the execution times, the path lengths obtained, shortest path vertex count, and visited vertex count:
+
+----cat dijkstra-----
+Time difference of dijkstra = 0.742[secs]
+path length: 174.871
+shortest path vertex count: 110
+visited vertex count: 14021
+
+---cat eucledian distance heuristic with no factor-----
+Time difference of A* = 0.208[secs]
+path length: 174.871
+shortest path vertex count: 110
+visited vertex count: 2853
+
+---cat eucledian distance heuristic-----
+Time difference of A* = 0.006[secs]
+path length: 177.837
+shortest path vertex count: 110
+visited vertex count: 234
+
+---cat manhattan distance heuristic-----
+Time difference of A* = 0.026[secs]
+path length: 181.484
+shortest path vertex count: 116
+visited vertex count: 540
+
+---cat diagonal distance heuristic-----
+Time difference of A* = 0.06[secs]
+path length: 177.305
+shortest path vertex count: 112
+visited vertex count: 1046
+
